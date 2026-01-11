@@ -5,7 +5,7 @@ export const SITE = {
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Aayushman's Blog",
   ogImage: "aayushman-og.jpg",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
   scheduledPostMargin: 15 * 60 * 1000,
