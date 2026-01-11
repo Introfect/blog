@@ -21,12 +21,10 @@ timezone: "Asia/Kolkata"
 
 After spending real time using **Cursor** and **Droid (Factory AI CLI)** with the _same underlying models_, I’ve realized that this question doesn’t really hold up anymore.
 
-<figure>
-  <img
+<img
     src="/og.png"
     alt=""
   />
-</figure>
 
 The outputs are rarely the real differentiator.
 

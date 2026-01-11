@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://oyeaayushaman.dev/",
   author: "Aayushman Pratap",
   profile: "https://oyeaayushaman.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "I write from practical experience — what worked, what didn’t, and what I learned along the way.",
   title: "Aayushman's Blog",
   ogImage: "aayushman-og.jpg",
   lightAndDarkMode: true,
