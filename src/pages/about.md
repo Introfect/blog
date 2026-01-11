@@ -3,35 +3,63 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi! I’m **Aayushman Pratap**, a frontend engineer with a strong full-stack foundation, focused on building reliable, high-quality web applications with great user experience.
 
-![Astro Paper](public/astropaper-og.jpg)
+I enjoy working close to product and design, turning complex requirements into clean, scalable UI systems.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+---
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## Professional Experience
 
-## Features
+I’m currently working as a **Frontend Engineer at** [EPYC](https://epyc.in/), where I build production-grade frontend systems used in real-world fintech, scheduling, and funding workflows.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+My work involves owning frontend architecture, collaborating closely with backend teams, and shipping features that are both user-friendly and technically robust.
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+---
 
-and so much more.
+## Technical Skills
 
-## Show your support
+### Frontend Development
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+- **Frameworks:** React, Next.js (App Router), React Router
+- **Language:** TypeScript (primary), JavaScript
+- **Styling:** Tailwind CSS, ShadCN UI
+- **State & Data:** React Query, modern state management patterns
+- **UI Focus:** Performance, accessibility, and maintainable component design
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+### Backend & Systems (Working Knowledge)
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+- **Runtime:** Node.js
+- **APIs:** RESTful services, API integration
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Tools:** Git, Vercel, Firebase, Stripe, Postman
 
-Kyay zuu! 🙏🏼
+---
+
+## Engineering Experience Highlights
+
+At EPYC, I’ve worked on:
+
+- A **scheduling system** with booking flows, availability dashboards, Razorpay payments, and Google Calendar sync
+- A **Shopify credits system for airlines**, handling balances, analytics, and reliable state updates
+- A **funding application platform** with collaborative forms, review workflows, Algolia search, and resilient UI for partial backend failures
+
+Previously, I’ve also worked as:
+
+- **Full Stack Developer Intern at Tecurcity**, improving UI and optimizing backend queries
+- **Backend Developer Intern at SwitchIt**, building secure REST APIs and role-based access control
+
+---
+
+## What You’ll Find Here
+
+This blog is where I share my experiences, learnings, and opinions on modern frontend engineering and AI-assisted development.
+
+You can expect posts about:
+
+- React and Next.js best practices
+- Frontend architecture and performance
+- Real-world engineering workflows
+- AI-assisted coding tools and how they change the way we build software
+
+I write from practical experience — what worked, what didn’t, and what I learned along the way.

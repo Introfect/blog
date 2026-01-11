@@ -1,7 +1,7 @@
 ---
 title: "Cursor vs Droid: Same Model, Different Outputs"
 author: Aayushman Pratap
-pubDatetime: 2026-01-12T16:55:12.000+00:00
+pubDatetime: 2026-01-11T00:00:00.000+00:00
 slug: cursor-vs-droid-same-model-different-outputs
 featured: true
 draft: false
