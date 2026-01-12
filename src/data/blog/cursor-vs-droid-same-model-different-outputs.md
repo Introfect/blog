@@ -30,8 +30,6 @@ The outputs are rarely the real differentiator.
 
 What actually changes the result is **how the tool fits into your workflow**.
 
-This post isn’t a benchmark.  
-It’s not a feature comparison.  
 It’s simply my experience using both tools to build **animated UI components in React**, and what that taught me about AI-assisted coding today.
 
 ---
